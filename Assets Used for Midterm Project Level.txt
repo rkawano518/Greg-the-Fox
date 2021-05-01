@@ -1,0 +1,22 @@
+Assets I Used In My Project File:
+-------------------------------------------
+
+1. Sunny Land by Ansimuz:
+
+https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
+
+2. Sunny Land Forest by Ansimuz:
+
+https://assetstore.unity.com/packages/2d/characters/sunny-land-forest-108124
+
+3. Pixel Platformer Art Pack by HyperBrid:
+
+https://assetstore.unity.com/packages/2d/environments/pixel-platformer-art-pack-165498
+
+4.  Free 8-bit Pixel Pack by Super Icon Ltd.:
+
+https://assetstore.unity.com/packages/2d/environments/free-8-bit-pixel-pack-79530
+
+5. Parallax Dusk Mountain Background by Ansimuz: 
+
+https://assetstore.unity.com/packages/2d/textures-materials/tiles/parallax-dusk-mountain-background-53403
